@@ -38,6 +38,7 @@ author:
 #   - projects.md
 #   - about.md
 markdown: GFM
+show_excerpts: true
 
 # Build settings
 remote_theme: jekyll/minima
