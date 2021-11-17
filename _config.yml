@@ -37,6 +37,7 @@ author:
 # header_pages:
 #   - projects.md
 #   - about.md
+markdown: GFM
 
 # Build settings
 remote_theme: jekyll/minima
