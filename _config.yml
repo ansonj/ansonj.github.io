@@ -38,6 +38,7 @@ author:
 #   - projects.md
 #   - about.md
 markdown: GFM
+paginate: 5
 show_excerpts: true
 
 # Build settings
