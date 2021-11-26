@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   sometimes musician in Houston, Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ansonj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+asset_url_prefix: 'https://s3.us-east-2.amazonaws.com/assets.ansonj.org/'
 minima:
   skin: classic
   social_links:
