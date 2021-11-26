@@ -35,9 +35,9 @@ minima:
 author:
   # name: Anson Jablinski
   # email: "john.smith@foobar.com"
-# header_pages:
-#   - projects.md
-#   - about.md
+header_pages:
+  - projects/index.md
+  - about.md
 markdown: GFM
 paginate: 5
 show_excerpts: true
